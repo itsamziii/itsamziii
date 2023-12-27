@@ -16,13 +16,14 @@
 <br />
 
 <div align="center">
-  :telescope: I’m currently working on **a marketplace**
+
+  🔭 I’m currently working on **Discord Bots**
   
-  :seedling: I’m currently learning **Rust, NLP, Designing** 
+  🌱 I’m currently learning **Rust, NLP, Designing** 
   
-  :speech_balloon: Ask me about **Node.js, MongoDB, ML/DL Algorithms... or anything.** 
+  🗨️ Ask me about **Node.js, MongoDB, ML/DL Algorithms... or anything.** 
   
-  :zap: Fun fact: **I never had a CS background :p**
+  ⚡ Fun fact: **I never had a CS background :p**
 </div>
 
 <div align="center">
