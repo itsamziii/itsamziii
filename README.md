@@ -52,11 +52,6 @@
 <br />
 <br />
 
-<hr />
-
-<br />
-<br />
-
 <div align="center">
   <h2>GitHub Stats</h2>
   <br />
@@ -80,22 +75,18 @@
     <img
       width="325"
       align="center"
-      src="https://github-readme-stats-itsamziii.vercel.app/api/top-langs/?username=itsamziii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+      src="https://github-readme-stats-itsamziii.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
       alt="top langs"
     />
   </div>
-  <br /><br /><br />
+  <br />
 </div>
-
-<br />
-<br />
-
-<hr />
 
 <br />
 <br />
 
 <div align="center">
   <h2>Random Meme</h2>
+  <br />
   <img src="https://randommeme-five.vercel.app/" style="height: 400px" />
 </div>
